@@ -10,7 +10,7 @@ function initRightNav() {
     /*toogle btn */
 
     $('.hamb-btn').click(function () {
-
+        console.log('open')
         $('.hamb-btn').toggleClass('open');
         $(".right-nav").toggleClass('show');
 

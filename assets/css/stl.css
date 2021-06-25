@@ -1431,3 +1431,45 @@ p {
 .footer-bar ul li+li {
     margin-left: 4px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/*  orange-section  */
+
+.orange-section {
+    position: relative;
+    padding: 57px 0 0;
+    background: url('../img/orange.jpg') no-repeat center top fixed;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.orange-section h2{
+    color: #efefef;
+    margin-bottom: 15px;
+}
+.orange-section .white-card_holder {
+    background-color: #fff;
+    padding: 50px;
+    position: relative;
+    bottom: -25px;
+}
+.orange-section .white-card_holder p {
+    color: #2f2185;
+}
+.orange-section .white-card_holder h3 {
+    color: #e72d14;
+    font-size: 26px;
+}
+
+
+
