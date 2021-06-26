@@ -1,7 +1,7 @@
 
 
 :root {
-    --primary-color:#BF9F30;
+    --primary-color:#b91520;
     --secondary-color:#171717;
 }
 
@@ -16,7 +16,7 @@ body {
     user-select: none;
     background: transparent;
     /* font-family: 'Poppins', sans-serif; */
-    font-family: 'Raleway', sans-serif;
+    font-family: "Gill Sans", sans-serif;
 }
 a {
     color: inherit;
@@ -26,7 +26,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Gill Sans", cursive;
     font-weight: 500;
     line-height: 1.2;
     margin: 0 0 20px;
@@ -43,7 +43,7 @@ h2 {
 
 p {
     margin: 0 0 20px;
-    font-family: 'Raleway', sans-serif;
+    font-family: "Gill Sans", sans-serif;
     font-size: 16px;
     line-height: 26px;
 }
@@ -60,12 +60,12 @@ p {
     outline: none;
 }
 .outlined-btn {
-    --color:var(--secondary-color);
+    --color:#fff;
     --hov-color:#fff;
-    border: 1px solid var(--secondary-color);
+    
     /* border-radius: var(--rad) ; */
-    background-color: transparent;
-    color: var(--color);
+    background-color: #b91520;
+    color: #c8a76e;
     font-size: 16px;
     padding: 14px 24px;
     outline: none!important;
@@ -129,7 +129,7 @@ p {
     font-size: 32px;
     margin-bottom: 0;
     font-weight: lighter;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
 }
 
 
@@ -173,7 +173,7 @@ p {
     text-decoration: none;
 }
 .top-header {
-    background-color: #E9E9E9;
+    background-color: #fff;
     color: #000;    
     font-size: 11px!important;
     text-transform: uppercase;
@@ -273,7 +273,7 @@ p {
 .top-nav .top-nav_inner {
     /* height: 115px; */
     position: relative;
-    background-color: var(--secondary-color);
+    background-color: #c5a36c;
 }
 
 .top-nav .container  {
@@ -306,7 +306,7 @@ p {
 .top-nav li.nav-item .nav-link {
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-size: 12px;
     padding: 20px 0;
     font-weight: bold;
@@ -622,7 +622,7 @@ p {
     padding: 45px;
 }
 .home-slider .slider-item .bottom-text h4{
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: 400;
 }
 .home-slider .slider-item .bottom-text a{
@@ -842,7 +842,7 @@ p {
     text-align: center;
 }
 .banner-section .banner-inner h4{
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-size: 31px;
     max-width: 60%;
     line-height: 32px;
@@ -877,7 +877,7 @@ p {
     font-size: 28px;
     line-height: 35px;
     font-weight: lighter;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     color: #fff;
 }
 .bgs-section .button {
@@ -981,7 +981,7 @@ p {
 .articles-section .article-item h3 {   
     font-size: 32px;
     font-weight: lighter;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     line-height: 33px;
     margin-bottom: 18px;
 }
@@ -992,7 +992,7 @@ p {
 .articles-section .article-item2 h3 {   
     font-size: 32px;
     font-weight: lighter;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     line-height: 33px;
     margin-bottom: 18px;
 }
@@ -1003,7 +1003,7 @@ p {
 .articles-section .article-item3 h3 {   
     font-size: 32px;
     font-weight: lighter;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     line-height: 33px;
     margin-bottom: 18px;
 }
@@ -1027,13 +1027,13 @@ p {
     top: 0;
     right: 0;left: 0;
     bottom: 0;
-    background-color: #004b72ce;
+    background-color: #ba1520ce;
     display: flex;
     justify-content: center;
     align-items: center;
     color: #fff;
     font-size: 28px;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
 }
 /* footer-text */
 .footer-text {
@@ -1046,7 +1046,7 @@ p {
 
 /* footer features  */
 .footer-features {
-    background-color: #EAE5DD;
+    background-color: #d4b576;
     padding: 40px 0;
 }
 .footer-features .icon {
@@ -1092,7 +1092,7 @@ p {
     content: none;
 }
 .bonuta-section .section-title span{
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: lighter;
     color: #999;
 }
@@ -1111,7 +1111,7 @@ p {
     margin: 0 auto;
 }
 .bonuta-section .section-title p{
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: lighter;
     color: #999;
     font-size: 14px;
@@ -1129,9 +1129,9 @@ p {
     margin-bottom: 5px;
 }
 .tap-item .sub-title {
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: lighter;
-    color: #999;
+    color: #333;
 }
 .tap-item .title {
     font-weight: 300;
@@ -1143,7 +1143,7 @@ p {
     padding: 0;
     margin: 0 auto;
     line-height: 34px;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: bold;
 }
 .tap-item .outlined-btn {
@@ -1164,7 +1164,7 @@ p {
     font-size: 30px;   
     font-size: 34px;
     
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: bold;
     line-height: 1.2;
     color: #404040;
@@ -1174,7 +1174,7 @@ p {
     color: #8c8c8c;
     font-size: 13px;
     font-weight: 200;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     overflow-x: hidden; 
 }
 
@@ -1226,7 +1226,7 @@ p {
     align-items: center;
     background: #bfa030af;
     color: #fff;
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     font-weight: bold;
     opacity: 0;
     transition: opacity .2s;
@@ -1305,13 +1305,13 @@ p {
 }
 
 .banner-wbg span {
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     color: #bbb;
     margin-bottom: 15px;
     font-size: 14px;
 }
 .banner-wbg h2 {
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     color: #bbb;
     margin: 0 auto;
     margin-bottom: 30px;
@@ -1321,7 +1321,7 @@ p {
     max-width: 40%;
 }
 .banner-wbg p {
-    font-family: 'Raleway';
+    font-family: "Gill Sans", cursive;;
     color: #bbb;
 
     margin: 20px auto;
@@ -1346,7 +1346,7 @@ p {
 .block .block-header h4 {
     font-size: 18px;
     color: #ddd;
-    font-family: 'RALEWAY';
+    font-family: "Gill Sans", cursive;;
     text-transform: capitalize;
     margin-bottom: 10px;
 }
@@ -1431,9 +1431,6 @@ p {
 .footer-bar ul li+li {
     margin-left: 4px;
 }
-
-
-
 
 
 
